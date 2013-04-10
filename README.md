@@ -1,0 +1,2 @@
+sign-translator-android-debug
+=============================
